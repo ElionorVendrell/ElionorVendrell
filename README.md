@@ -2,4 +2,4 @@
 - 💬 I’m UX/UI & Graphic designer
 - 👀 Take a look at my work here: 
 - 🌱 I’m currently learning React JS
-- 📫 You can contact me here: elionorvendrell@gmail.com
+- 📩 You can contact me here: elionorvendrell@gmail.com
