@@ -28,13 +28,12 @@
 
 
 ### Cloud Services: 
-[![Firebase](https://camo.githubusercontent.com/4bb20d999c9f0033b5019a85898fe927bc21390f867cdc149d618549b596b61e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f66697265626173652e706e67)](https://firebase.google.com/)
+<a href="https://firebase.google.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/4bb20d999c9f0033b5019a85898fe927bc21390f867cdc149d618549b596b61e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f66697265626173652e706e67" alt="firebase" width="40" height="40" style="max-width: 100%;"> </a> 
 
 ### Design: 
-
-[![Figma](https://camo.githubusercontent.com/95865758a2ab4903a1376f27eaaba181564165f02e31212c14da5f763d4e7282/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6669676d612e706e67)](https://www.figma.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="Sketch" width="40">](https://www.sketch.com/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" width="40">](https://www.adobe.com/products/xd.html)
+<a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/95865758a2ab4903a1376f27eaaba181564165f02e31212c14da5f763d4e7282/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f6669676d612e706e67" alt="figma" width="30" height="30" style="max-width: 100%;"> </a> 
+<a href="https://www.sketch.com/" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Sketch_Logo.svg" alt="sketch" width="30" height="30" style="max-width: 100%;"> </a> 
+<a href="https://www.adobe.com/products/xd.html" rel="nofollow"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/2101px-Adobe_XD_CC_icon.svg.png" alt="adobeXD" width="30" height="30" style="max-width: 100%;"> </a> 
 
 [![Illustrator](https://camo.githubusercontent.com/306f775e5451d78a946602bac41a67cd4fad9f59a63ed33a1e4b8416a89e628d/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f61646f62652d696c6c7573747261746f722e706e67)](https://www.adobe.com/products/illustrator.html)
 [![Indesign](https://camo.githubusercontent.com/4efafdc4cce274d21b7913c8d8c1225ab255eb737fe763c096a346b25751971f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f35302f3030303030302f61646f62652d696e64657369676e2e706e67)](https://www.adobe.com/products/indesign.html)
