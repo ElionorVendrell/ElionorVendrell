@@ -4,6 +4,8 @@
 - 🌱 I'm currently learning Vue.js & PHP
 - 📩 You can contact me here: elivendrell@gmail.com or <a href="https://www.linkedin.com/in/elionor">Linkedin</a>
 
+![profile views](https://komarev.com/ghpvc/?username=ElionorVendrell&color=green)
+
 
 ## 💻 Languages and Tools:
 
