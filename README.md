@@ -3,7 +3,7 @@
 
 # 👋 Hi, I’m Elionor Vendrell
 
-- 👩‍💻 I’m UX/UI designer & Front End developer
+- 👩‍💻 I’m Front End developer & UX/UI designer
 - 🌱 I'm currently learning Vue.js & PHP
 - 📩 You can contact me here: elivendrell@gmail.com or <a href="https://www.linkedin.com/in/elionor">Linkedin</a>
 
