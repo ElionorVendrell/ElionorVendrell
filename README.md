@@ -4,7 +4,7 @@
 # 👋 Hi, I’m Elionor Vendrell
 
 - 👩‍💻 I’m Front End developer & UX/UI designer
-- 🌱 I'm currently learning Angular & PHP
+- 🌱 I'm currently learning Angular 
 - 📩 You can contact me here: elivendrell@gmail.com or <a href="https://www.linkedin.com/in/elionor">Linkedin</a>
 
 
